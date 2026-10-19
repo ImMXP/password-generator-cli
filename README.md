@@ -28,10 +28,17 @@ A simple and efficient Java-based Command Line Interface (CLI) application that 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ImMXP/Password-Generator-App-
+   git clone https://github.com/ImMXP/password-generator-cli.git
+   cd password-generator-cli
+   ```
+2. **Compile and run:**
+   ```bash
+   javac App.java passwords.java
+   java App
+   ```
 
 # 👤 Author
-Developed by Moha0x
+Developed by [Moha0x](https://github.com/ImMXP)
 
 ## <a id="arabic"></a>🇸🇦 الوصف بالعربية
 
@@ -54,7 +61,14 @@ Developed by Moha0x
 
 1. **انسخ المستودع (Clone):**
    ```bash
-   git clone https://github.com/ImMXP/Password-Generator-App-
+   git clone https://github.com/ImMXP/password-generator-cli.git
+   cd password-generator-cli
+   ```
+2. **ترجمة البرنامج وتشغيله:**
+   ```bash
+   javac App.java passwords.java
+   java App
+   ```
 
 # 👤 المطور
-تم التطوير من قبل: Moha0x
+تم التطوير من قبل: [Moha0x](https://github.com/ImMXP)
